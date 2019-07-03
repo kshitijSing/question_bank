@@ -1,0 +1,9 @@
+<?php
+require_once('../../private/initialize.php');
+session_start();
+?>
+<?php
+$_SESSION['status']='LOGIN';
+$_SESSION['user']='';
+header('Location:questions.php');
+?>
