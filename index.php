@@ -1,5 +1,3 @@
-
-
 <html>
   <head>
     <link rel="stylesheet" href="public/static/style2.css" >
